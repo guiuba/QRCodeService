@@ -14,6 +14,8 @@ Otherwise, the program will return a Json message, specifying the error in the r
 
 ![image](https://github.com/guiuba/QRCodeService/assets/69851038/800b0d6f-0c48-4690-bd6f-5375493b7a48)
 
+![image](https://github.com/guiuba/QRCodeService/assets/69851038/d2c67e0e-a8aa-41bd-963a-291b4c0eb1bc)
+
 
 
 
