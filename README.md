@@ -12,6 +12,8 @@ If there is no errors in the request, the program will generate a QRCode image:
 
 Otherwise, the program will return a Json message, specifying the error in the request. Examples:
 
+![image](https://github.com/guiuba/QRCodeService/assets/69851038/c92967dd-b817-423c-950e-b75e3cb550ff)
+
 
 
 
